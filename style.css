@@ -284,7 +284,7 @@ ul.links{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    background-image: url(img/apple-iphone7plus-silver-portrait.png);
+    background-image: url(./img/apple-iphone7plus-silver-portrait.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
