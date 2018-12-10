@@ -280,7 +280,21 @@ ul.links{
 .icon:hover{
     background-color: #3f4e68;
 }
-
+.phone{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    background-image: url(img/apple-iphone7plus-silver-portrait.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 600px;
+    height: 1000px;
+}
+.mobiel{
+    position: relative;
+    top: 9em;
+}
 footer {
   
   right: 0;
