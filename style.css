@@ -76,6 +76,8 @@ html {
 
 row {
     margin: auto;
+    display: flex;
+    flex-wrap: wrap;
 }
 
 .row::after {
@@ -93,8 +95,8 @@ row {
 
 .skills {
     display: block;
-}
 
+}
 .hobbys {
     float: right;
 }
